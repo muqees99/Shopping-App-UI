@@ -36,6 +36,14 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   lottie: ^2.6.0
+  font_awesome_flutter: ^10.5.0
+  cool_dropdown: ^2.1.0
+  fluttertoast: ^8.2.2
+  dropdown_button2: ^2.3.9
+  flutter_svg: ^2.0.7
+  flutter_rating_bar: ^4.0.1
+  
+  animated_notch_bottom_bar: ^1.0.0
 
 dev_dependencies:
   flutter_test:
@@ -61,8 +69,52 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets\animation\animation_1.json
-    - assets\animation\animation_2.json
+    - assets/animation/
+    # - assets/images/background/backgrond.jpeg
+    - assets/images/laptops/laptop-1.2.png
+    - assets/images/laptops/laptop-1.3.png
+    - assets/images/laptops/laptop-3.png
+    - assets/images/laptops/laptop-4.png
+    - assets/images/laptops/laptop-5.png
+    - assets/images/laptops/laptop-6.png
+    - assets/images/casings/casing-2.png
+    - assets/images/casings/casing-3.png
+    - assets/images/casings/casing-4.png
+    - assets/images/casings/casing-5.png
+    - assets/images/headphones/headphone-1.png
+    - assets/images/headphones/headphone-2.png
+    - assets/images/headphones/headphone-3.png
+    - assets/images/headphones/headphone-4.png
+    - assets/images/headphones/headphone-5.png
+    - assets/images/gpu/gpu-1.png
+    - assets/images/gpu/gpu-2.png
+    - assets/images/gpu/gpu-3.png
+    - assets/images/gpu/gpu-4.png
+    - assets/images/gpu/gpu-5.png
+    - assets/images/keyboard/keyboard-1.png
+    - assets/images/keyboard/keyboard-2.png
+    - assets/images/keyboard/keyboard-3.png
+    - assets/images/keyboard/keyboard-4.png
+    - assets/images/keyboard/keyboard-5.png
+    - assets/images/monitors/mainitor-1.png
+    - assets/images/monitors/mainitor-2.png
+    - assets/images/monitors/mainitor-3.png
+    - assets/images/monitors/mainitor-4.png
+    - assets/images/monitors/mainitor-5.png
+    - assets/images/mouse/mouse-1.png
+    - assets/images/mouse/mouse-2.png
+    - assets/images/mouse/mouse-3.png
+    - assets/images/mouse/mouse-4.png
+    - assets/images/mouse/mouse-5.png
+    - assets/navbar/CategorySelected.svg
+    - assets/navbar/CategoryUnselected.svg
+    - assets/navbar/HeartSelected.svg
+    - assets/navbar/HeartUnselected.svg
+    - assets/navbar/homeSelected.svg
+    - assets/navbar/homeUnselected.svg
+    - assets/navbar/moreSelected.svg
+    - assets/navbar/moreUnselected.svg
+    
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

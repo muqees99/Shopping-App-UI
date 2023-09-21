@@ -22,3 +22,13 @@ class TextColors {
   static Color textColor2 = const Color(0xffB2BBCE);
   static Color textColor3 = const Color(0xff1E222B);
 }
+
+class UpdatedColors {
+  static Color black = Color(0xff080808);
+  static Color darkGrey = Color(0xff676767);
+  static Color midGrey = Color(0xffA9A9A9);
+  static Color grey = Color(0xff808080);
+  static Color lightGrey = Color(0xffBEBEBE);
+
+  static Color blue = Color(0xff1877F2);
+}
